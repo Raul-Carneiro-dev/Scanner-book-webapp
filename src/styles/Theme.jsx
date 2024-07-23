@@ -32,7 +32,7 @@ export const theme = {
     gray600: "#64666B",
     gray700: "#424449",
     gray800: "#1D1E21",
-    gray900: "#141518",
+    gray900: "#ffffff",
     primary: "#F83600",
     secondary: "#FE8C00",
   },

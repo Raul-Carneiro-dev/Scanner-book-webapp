@@ -1,0 +1,23 @@
+{
+    "books": [
+        {
+            "id": "9788538077039",
+            "isbn": "9788538077039",
+            "name": "O Cortiço - Clássicos da Literatura",
+            "coverUrl": "https://m.media-amazon.com/images/I/71ptMaVe39L._SL1206_.jpg",
+            "rating": 4.5,
+            "promotionalPrice": 8.50,
+            "price": 10.00,
+            "score": 4.8,
+            "scores": [
+                {"id": 1, "name": "Enredo", "value": 3.5},
+                {"id": 2, "name": "Capa", "value": 3.5},
+                {"id": 3, "name": "Autor", "value": 5},
+                {"id": 4, "name": "Exemplos", "value": 3.9}
+            ],
+            "tecnologies": ["Java", "TDD", "Arquitetura"],
+            "requirements": ["Java"],
+            "description": "Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acabar com uma empresa de desenvolvimento. Perdem-se a cada ano horas incontáveis e recursos importantes devido a um código mal escrito. Mas não precisa ser assim"
+        }
+    ]
+}
